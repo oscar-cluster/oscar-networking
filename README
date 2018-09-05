@@ -1,0 +1,1 @@
+networking: Configure DNS service on headnode and set resolv.conf on compute nodes accordingly.
